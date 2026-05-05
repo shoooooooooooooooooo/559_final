@@ -1,0 +1,410 @@
+nohup: ignoring input
+Controllable intersections: 12
+
+============================================================
+Training | mode=clean rate=0.0
+============================================================
+Controllable intersections: 12
+  Episode   1/50 | reward=-6.270/step | travel_time=890.2s | loss=0.5614 | eps=0.050
+  Episode   2/50 | reward=-6.385/step | travel_time=910.8s | loss=5.6452 | eps=0.050
+  Episode   3/50 | reward=-6.132/step | travel_time=862.8s | loss=9.7477 | eps=0.050
+  Episode   4/50 | reward=-6.292/step | travel_time=890.9s | loss=12.0935 | eps=0.050
+  Episode   5/50 | reward=-6.928/step | travel_time=929.1s | loss=10.0366 | eps=0.050
+  Episode   6/50 | reward=-6.659/step | travel_time=927.3s | loss=12.5517 | eps=0.050
+  Episode   7/50 | reward=-6.574/step | travel_time=921.6s | loss=12.3506 | eps=0.050
+  Episode   8/50 | reward=-6.402/step | travel_time=867.5s | loss=11.6463 | eps=0.050
+  Episode   9/50 | reward=-5.936/step | travel_time=831.1s | loss=10.6497 | eps=0.050
+  Episode  10/50 | reward=-6.172/step | travel_time=868.6s | loss=8.8310 | eps=0.050
+  Episode  11/50 | reward=-6.758/step | travel_time=919.0s | loss=12.5181 | eps=0.050
+  Episode  12/50 | reward=-6.315/step | travel_time=862.0s | loss=11.9552 | eps=0.050
+  Episode  13/50 | reward=-6.604/step | travel_time=891.3s | loss=12.0684 | eps=0.050
+  Episode  14/50 | reward=-6.522/step | travel_time=906.0s | loss=10.8457 | eps=0.050
+  Episode  15/50 | reward=-5.783/step | travel_time=868.7s | loss=11.2852 | eps=0.050
+  Episode  16/50 | reward=-5.965/step | travel_time=863.4s | loss=11.2954 | eps=0.050
+  Episode  17/50 | reward=-5.953/step | travel_time=830.7s | loss=12.4805 | eps=0.050
+  Episode  18/50 | reward=-6.333/step | travel_time=870.9s | loss=10.9559 | eps=0.050
+  Episode  19/50 | reward=-6.327/step | travel_time=841.5s | loss=9.7428 | eps=0.050
+  Episode  20/50 | reward=-6.213/step | travel_time=849.5s | loss=11.3180 | eps=0.050
+  Episode  21/50 | reward=-6.302/step | travel_time=847.5s | loss=10.8469 | eps=0.050
+  Episode  22/50 | reward=-6.187/step | travel_time=875.1s | loss=11.3277 | eps=0.050
+  Episode  23/50 | reward=-6.693/step | travel_time=920.5s | loss=10.8430 | eps=0.050
+  Episode  24/50 | reward=-6.894/step | travel_time=913.7s | loss=11.7505 | eps=0.050
+  Episode  25/50 | reward=-5.990/step | travel_time=823.4s | loss=11.6287 | eps=0.050
+  Episode  26/50 | reward=-6.594/step | travel_time=883.7s | loss=11.9762 | eps=0.050
+  Episode  27/50 | reward=-6.380/step | travel_time=897.4s | loss=12.4607 | eps=0.050
+  Episode  28/50 | reward=-6.628/step | travel_time=909.7s | loss=14.2099 | eps=0.050
+  Episode  29/50 | reward=-7.018/step | travel_time=941.8s | loss=13.8922 | eps=0.050
+  Episode  30/50 | reward=-7.043/step | travel_time=920.2s | loss=12.8806 | eps=0.050
+  Episode  31/50 | reward=-6.279/step | travel_time=849.6s | loss=14.4934 | eps=0.050
+  Episode  32/50 | reward=-6.191/step | travel_time=861.8s | loss=13.8804 | eps=0.050
+  Episode  33/50 | reward=-6.755/step | travel_time=891.2s | loss=11.1811 | eps=0.050
+  Episode  34/50 | reward=-6.447/step | travel_time=875.1s | loss=11.0224 | eps=0.050
+  Episode  35/50 | reward=-6.405/step | travel_time=877.6s | loss=10.1074 | eps=0.050
+  Episode  36/50 | reward=-6.249/step | travel_time=891.4s | loss=10.1391 | eps=0.050
+  Episode  37/50 | reward=-6.222/step | travel_time=906.6s | loss=12.9346 | eps=0.050
+  Episode  38/50 | reward=-6.610/step | travel_time=916.8s | loss=10.5272 | eps=0.050
+  Episode  39/50 | reward=-6.356/step | travel_time=864.8s | loss=14.5994 | eps=0.050
+  Episode  40/50 | reward=-5.610/step | travel_time=802.5s | loss=10.6595 | eps=0.050
+  Episode  41/50 | reward=-5.880/step | travel_time=839.9s | loss=8.6578 | eps=0.050
+  Episode  42/50 | reward=-6.307/step | travel_time=867.4s | loss=11.1889 | eps=0.050
+  Episode  43/50 | reward=-6.061/step | travel_time=866.5s | loss=9.4773 | eps=0.050
+  Episode  44/50 | reward=-5.863/step | travel_time=838.4s | loss=10.6890 | eps=0.050
+  Episode  45/50 | reward=-5.773/step | travel_time=860.7s | loss=9.4776 | eps=0.050
+  Episode  46/50 | reward=-5.854/step | travel_time=862.7s | loss=10.6810 | eps=0.050
+  Episode  47/50 | reward=-5.706/step | travel_time=868.2s | loss=12.1350 | eps=0.050
+  Episode  48/50 | reward=-6.525/step | travel_time=867.5s | loss=10.7829 | eps=0.050
+  Episode  49/50 | reward=-5.846/step | travel_time=821.9s | loss=11.9486 | eps=0.050
+  Episode  50/50 | reward=-6.053/step | travel_time=851.9s | loss=12.0559 | eps=0.050
+
+Model saved to models/colight_clean.pt
+
+============================================================
+Training | mode=node_mask rate=0.2
+============================================================
+Controllable intersections: 12
+  Episode   1/50 | reward=-6.063/step | travel_time=862.5s | loss=4.2878 | eps=0.050
+  Episode   2/50 | reward=-6.125/step | travel_time=886.1s | loss=14.5177 | eps=0.050
+  Episode   3/50 | reward=-6.276/step | travel_time=874.2s | loss=13.2828 | eps=0.050
+  Episode   4/50 | reward=-6.628/step | travel_time=902.8s | loss=18.3958 | eps=0.050
+  Episode   5/50 | reward=-6.790/step | travel_time=899.5s | loss=15.8481 | eps=0.050
+  Episode   6/50 | reward=-6.157/step | travel_time=848.5s | loss=13.5166 | eps=0.050
+  Episode   7/50 | reward=-6.551/step | travel_time=918.2s | loss=15.0915 | eps=0.050
+  Episode   8/50 | reward=-6.176/step | travel_time=876.3s | loss=13.4906 | eps=0.050
+  Episode   9/50 | reward=-6.487/step | travel_time=906.9s | loss=14.6024 | eps=0.050
+  Episode  10/50 | reward=-6.295/step | travel_time=888.8s | loss=14.6725 | eps=0.050
+  Episode  11/50 | reward=-6.404/step | travel_time=897.1s | loss=14.3111 | eps=0.050
+  Episode  12/50 | reward=-6.620/step | travel_time=871.6s | loss=13.0814 | eps=0.050
+  Episode  13/50 | reward=-6.071/step | travel_time=843.9s | loss=13.0860 | eps=0.050
+  Episode  14/50 | reward=-6.322/step | travel_time=859.0s | loss=14.0099 | eps=0.050
+  Episode  15/50 | reward=-6.321/step | travel_time=887.5s | loss=12.5960 | eps=0.050
+  Episode  16/50 | reward=-5.918/step | travel_time=849.1s | loss=12.8748 | eps=0.050
+  Episode  17/50 | reward=-5.602/step | travel_time=819.4s | loss=12.2793 | eps=0.050
+  Episode  18/50 | reward=-5.647/step | travel_time=822.2s | loss=12.5867 | eps=0.050
+  Episode  19/50 | reward=-6.006/step | travel_time=840.4s | loss=9.5450 | eps=0.050
+  Episode  20/50 | reward=-6.967/step | travel_time=914.3s | loss=11.5241 | eps=0.050
+  Episode  21/50 | reward=-6.295/step | travel_time=873.0s | loss=11.5374 | eps=0.050
+  Episode  22/50 | reward=-4.934/step | travel_time=767.1s | loss=13.7416 | eps=0.050
+  Episode  23/50 | reward=-6.561/step | travel_time=850.4s | loss=14.0734 | eps=0.050
+  Episode  24/50 | reward=-5.587/step | travel_time=824.4s | loss=15.1374 | eps=0.050
+  Episode  25/50 | reward=-5.445/step | travel_time=794.5s | loss=13.3758 | eps=0.050
+  Episode  26/50 | reward=-5.825/step | travel_time=834.2s | loss=13.9773 | eps=0.050
+  Episode  27/50 | reward=-5.890/step | travel_time=836.6s | loss=9.0252 | eps=0.050
+  Episode  28/50 | reward=-5.575/step | travel_time=826.1s | loss=10.8781 | eps=0.050
+  Episode  29/50 | reward=-5.734/step | travel_time=824.1s | loss=11.9815 | eps=0.050
+  Episode  30/50 | reward=-5.296/step | travel_time=781.8s | loss=12.0958 | eps=0.050
+  Episode  31/50 | reward=-5.763/step | travel_time=824.6s | loss=13.0460 | eps=0.050
+  Episode  32/50 | reward=-5.960/step | travel_time=847.0s | loss=12.6505 | eps=0.050
+  Episode  33/50 | reward=-6.234/step | travel_time=880.5s | loss=11.8814 | eps=0.050
+  Episode  34/50 | reward=-5.832/step | travel_time=832.1s | loss=12.1186 | eps=0.050
+  Episode  35/50 | reward=-5.670/step | travel_time=824.6s | loss=11.9841 | eps=0.050
+  Episode  36/50 | reward=-5.946/step | travel_time=851.9s | loss=10.5574 | eps=0.050
+  Episode  37/50 | reward=-6.192/step | travel_time=831.1s | loss=11.6105 | eps=0.050
+  Episode  38/50 | reward=-6.083/step | travel_time=820.3s | loss=10.3028 | eps=0.050
+  Episode  39/50 | reward=-6.042/step | travel_time=854.1s | loss=12.2647 | eps=0.050
+  Episode  40/50 | reward=-5.955/step | travel_time=872.1s | loss=13.4755 | eps=0.050
+  Episode  41/50 | reward=-5.404/step | travel_time=821.1s | loss=12.3652 | eps=0.050
+  Episode  42/50 | reward=-6.119/step | travel_time=866.9s | loss=11.6877 | eps=0.050
+  Episode  43/50 | reward=-5.490/step | travel_time=822.7s | loss=11.5392 | eps=0.050
+  Episode  44/50 | reward=-5.769/step | travel_time=845.0s | loss=12.6786 | eps=0.050
+  Episode  45/50 | reward=-5.993/step | travel_time=835.2s | loss=10.3813 | eps=0.050
+  Episode  46/50 | reward=-5.703/step | travel_time=802.1s | loss=12.0392 | eps=0.050
+  Episode  47/50 | reward=-6.276/step | travel_time=832.7s | loss=10.6754 | eps=0.050
+  Episode  48/50 | reward=-6.165/step | travel_time=873.0s | loss=13.8905 | eps=0.050
+  Episode  49/50 | reward=-6.430/step | travel_time=925.2s | loss=11.9496 | eps=0.050
+  Episode  50/50 | reward=-5.852/step | travel_time=851.3s | loss=11.0596 | eps=0.050
+
+Model saved to models/colight_node_mask.pt
+
+============================================================
+Training | mode=edge_drop rate=0.2
+============================================================
+Controllable intersections: 12
+  Episode   1/50 | reward=-6.349/step | travel_time=901.4s | loss=9.7000 | eps=0.050
+  Episode   2/50 | reward=-6.466/step | travel_time=926.7s | loss=20.5186 | eps=0.050
+  Episode   3/50 | reward=-6.249/step | travel_time=866.2s | loss=17.1869 | eps=0.050
+  Episode   4/50 | reward=-6.760/step | travel_time=921.8s | loss=17.0789 | eps=0.050
+  Episode   5/50 | reward=-6.604/step | travel_time=908.7s | loss=17.2207 | eps=0.050
+  Episode   6/50 | reward=-6.425/step | travel_time=908.5s | loss=17.5422 | eps=0.050
+  Episode   7/50 | reward=-6.337/step | travel_time=894.8s | loss=16.4189 | eps=0.050
+  Episode   8/50 | reward=-6.336/step | travel_time=904.0s | loss=20.7628 | eps=0.050
+  Episode   9/50 | reward=-6.090/step | travel_time=847.5s | loss=19.5681 | eps=0.050
+  Episode  10/50 | reward=-5.878/step | travel_time=847.7s | loss=16.1992 | eps=0.050
+  Episode  11/50 | reward=-6.683/step | travel_time=914.4s | loss=17.0568 | eps=0.050
+  Episode  12/50 | reward=-6.123/step | travel_time=851.6s | loss=16.1718 | eps=0.050
+  Episode  13/50 | reward=-6.188/step | travel_time=873.4s | loss=18.8892 | eps=0.050
+  Episode  14/50 | reward=-6.810/step | travel_time=909.9s | loss=17.2176 | eps=0.050
+  Episode  15/50 | reward=-6.985/step | travel_time=935.7s | loss=18.5136 | eps=0.050
+  Episode  16/50 | reward=-6.106/step | travel_time=838.5s | loss=20.6429 | eps=0.050
+  Episode  17/50 | reward=-6.291/step | travel_time=922.0s | loss=17.9184 | eps=0.050
+  Episode  18/50 | reward=-6.465/step | travel_time=918.8s | loss=15.4490 | eps=0.050
+  Episode  19/50 | reward=-5.994/step | travel_time=879.9s | loss=14.9441 | eps=0.050
+  Episode  20/50 | reward=-6.533/step | travel_time=926.7s | loss=19.4302 | eps=0.050
+  Episode  21/50 | reward=-6.486/step | travel_time=910.8s | loss=16.0959 | eps=0.050
+  Episode  22/50 | reward=-6.263/step | travel_time=893.0s | loss=14.5968 | eps=0.050
+  Episode  23/50 | reward=-6.214/step | travel_time=870.9s | loss=14.4041 | eps=0.050
+  Episode  24/50 | reward=-6.851/step | travel_time=939.0s | loss=16.1372 | eps=0.050
+  Episode  25/50 | reward=-7.186/step | travel_time=944.3s | loss=16.6373 | eps=0.050
+  Episode  26/50 | reward=-6.397/step | travel_time=869.6s | loss=17.7436 | eps=0.050
+  Episode  27/50 | reward=-6.070/step | travel_time=815.0s | loss=19.5284 | eps=0.050
+  Episode  28/50 | reward=-6.644/step | travel_time=898.7s | loss=17.3098 | eps=0.050
+  Episode  29/50 | reward=-6.440/step | travel_time=880.3s | loss=19.4523 | eps=0.050
+  Episode  30/50 | reward=-6.365/step | travel_time=883.2s | loss=16.0491 | eps=0.050
+  Episode  31/50 | reward=-6.174/step | travel_time=843.0s | loss=15.5805 | eps=0.050
+  Episode  32/50 | reward=-6.329/step | travel_time=893.0s | loss=14.2514 | eps=0.050
+  Episode  33/50 | reward=-6.367/step | travel_time=884.6s | loss=16.2911 | eps=0.050
+  Episode  34/50 | reward=-6.276/step | travel_time=845.5s | loss=15.3352 | eps=0.050
+  Episode  35/50 | reward=-5.773/step | travel_time=802.5s | loss=16.3777 | eps=0.050
+  Episode  36/50 | reward=-6.446/step | travel_time=864.2s | loss=18.0182 | eps=0.050
+  Episode  37/50 | reward=-6.020/step | travel_time=812.9s | loss=16.3237 | eps=0.050
+  Episode  38/50 | reward=-5.816/step | travel_time=807.8s | loss=16.5455 | eps=0.050
+  Episode  39/50 | reward=-6.070/step | travel_time=842.8s | loss=14.1268 | eps=0.050
+  Episode  40/50 | reward=-6.250/step | travel_time=850.5s | loss=16.2244 | eps=0.050
+  Episode  41/50 | reward=-6.334/step | travel_time=895.4s | loss=15.7934 | eps=0.050
+  Episode  42/50 | reward=-6.509/step | travel_time=899.8s | loss=14.8047 | eps=0.050
+  Episode  43/50 | reward=-4.381/step | travel_time=703.3s | loss=17.0831 | eps=0.050
+  Episode  44/50 | reward=-4.522/step | travel_time=722.7s | loss=14.7573 | eps=0.050
+  Episode  45/50 | reward=-5.881/step | travel_time=825.4s | loss=12.7923 | eps=0.050
+  Episode  46/50 | reward=-6.129/step | travel_time=891.4s | loss=13.6660 | eps=0.050
+  Episode  47/50 | reward=-5.629/step | travel_time=793.8s | loss=15.4611 | eps=0.050
+  Episode  48/50 | reward=-5.858/step | travel_time=844.8s | loss=14.6266 | eps=0.050
+  Episode  49/50 | reward=-5.872/step | travel_time=837.7s | loss=13.2737 | eps=0.050
+  Episode  50/50 | reward=-6.154/step | travel_time=876.9s | loss=11.9727 | eps=0.050
+
+Model saved to models/colight_edge_drop.pt
+
+============================================================
+Experiment A: Failure-type sensitivity | agent=clean
+============================================================
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  mode=clean        rate=0.0 | travel_time=702.9 ± 0.0s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  mode=node_mask    rate=0.0 | travel_time=702.9 ± 0.0s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  mode=node_mask    rate=0.1 | travel_time=674.0 ± 1.1s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  mode=node_mask    rate=0.2 | travel_time=664.7 ± 5.4s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  mode=node_mask    rate=0.3 | travel_time=659.6 ± 2.0s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  mode=edge_drop    rate=0.0 | travel_time=702.9 ± 0.0s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  mode=edge_drop    rate=0.1 | travel_time=666.9 ± 4.1s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  mode=edge_drop    rate=0.2 | travel_time=662.1 ± 2.6s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  mode=edge_drop    rate=0.3 | travel_time=655.6 ± 3.4s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  mode=feat_noise   rate=0.0 | travel_time=716.9 ± 5.2s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  mode=feat_noise   rate=0.1 | travel_time=716.9 ± 5.2s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  mode=feat_noise   rate=0.2 | travel_time=716.9 ± 5.2s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  mode=feat_noise   rate=0.3 | travel_time=716.9 ± 5.2s
+Results saved to results/expA_clean.json
+Plot saved to results/expA_clean_sensitivity.png
+
+============================================================
+Experiment B: Cross-failure robustness transfer
+============================================================
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=clean        test=node_mask    rate=0.0 | 702.9 ± 0.0s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=clean        test=node_mask    rate=0.1 | 674.0 ± 1.1s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=clean        test=node_mask    rate=0.2 | 664.7 ± 5.4s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=clean        test=node_mask    rate=0.3 | 659.6 ± 2.0s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=clean        test=edge_drop    rate=0.0 | 702.9 ± 0.0s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=clean        test=edge_drop    rate=0.1 | 666.9 ± 4.1s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=clean        test=edge_drop    rate=0.2 | 662.1 ± 2.6s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=clean        test=edge_drop    rate=0.3 | 655.6 ± 3.4s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=node_mask    test=node_mask    rate=0.0 | 648.2 ± 0.0s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=node_mask    test=node_mask    rate=0.1 | 609.3 ± 3.9s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=node_mask    test=node_mask    rate=0.2 | 591.1 ± 3.8s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=node_mask    test=node_mask    rate=0.3 | 583.7 ± 3.5s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=node_mask    test=edge_drop    rate=0.0 | 648.2 ± 0.0s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=node_mask    test=edge_drop    rate=0.1 | 604.7 ± 4.4s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=node_mask    test=edge_drop    rate=0.2 | 591.1 ± 3.5s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=node_mask    test=edge_drop    rate=0.3 | 581.8 ± 3.4s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=edge_drop    test=node_mask    rate=0.0 | 697.2 ± 0.0s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=edge_drop    test=node_mask    rate=0.1 | 669.0 ± 19.4s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=edge_drop    test=node_mask    rate=0.2 | 640.6 ± 9.7s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=edge_drop    test=node_mask    rate=0.3 | 632.0 ± 12.8s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=edge_drop    test=edge_drop    rate=0.0 | 697.2 ± 0.0s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=edge_drop    test=edge_drop    rate=0.1 | 679.4 ± 3.6s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=edge_drop    test=edge_drop    rate=0.2 | 658.5 ± 17.3s
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+Controllable intersections: 12
+  train=edge_drop    test=edge_drop    rate=0.3 | 642.1 ± 15.5s
+Results saved to results/expB_cross_failure.json
+Plot saved to results/expB_cross_failure.png
+Training curve saved.
+
+All done! Results in ./results/

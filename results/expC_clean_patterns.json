@@ -1,0 +1,27 @@
+{
+  "node_mask": {
+    "mean": 310.03209590100545,
+    "std": 1.0575250110810166,
+    "label": "Random Sensor Failure"
+  },
+  "spatial_block": {
+    "mean": 313.0889404485692,
+    "std": 1.5624053048167805,
+    "label": "Spatial Block Failure"
+  },
+  "high_degree": {
+    "mean": 328.0672853828306,
+    "std": 0.0,
+    "label": "High-Degree Failure"
+  },
+  "edge_drop": {
+    "mean": 309.2989172467131,
+    "std": 0.817157594303218,
+    "label": "Random Comm. Failure"
+  },
+  "delay": {
+    "mean": 326.80394431554527,
+    "std": 0.0,
+    "label": "Delayed Observation"
+  }
+}
